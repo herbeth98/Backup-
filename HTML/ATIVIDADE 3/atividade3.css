@@ -1,0 +1,35 @@
+*{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+
+#lorem{
+    float: left;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+#div1{
+    background-color: #000000;
+    overflow: hidden;
+    padding-right: 100px;
+    padding-left: 180px;
+}
+
+ul{
+    list-style: none;
+    padding: 15px 30px;
+    float: right;
+    
+}
+
+.lista{
+    padding: 0px 20px;
+    display: inline-block;
+}
+
+body{
+    background-image: url('imagem.jpg');
+    background-size: 100%;
+    margin: 0%;
+}

@@ -1,0 +1,43 @@
+*{text-transform: uppercase;
+    margin: 0%;
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-image: url(imagem.jpg);
+    background-size: 100%;
+}
+
+#lista{ list-style: none;
+    
+}
+#div2{
+    display: inline-block;
+    padding: 10px 10px;
+
+}
+
+ul{
+    float: right;
+    padding: 15px;
+    margin-right: 150px;
+}
+
+h1{
+    float: left;
+    padding: 15px 180px ;
+
+}
+#div{
+    overflow: hidden;
+    background-color: #993399;
+}
+
+#lorem1{
+    display: inline-block;
+    width: 20%;
+    
+    background-color: rgb(99, 99, 99);
+    margin: 20px 5.5%;
+    padding: 10px;
+}

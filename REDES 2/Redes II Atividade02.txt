@@ -1,0 +1,54 @@
+1º Questão:
+
+    cd /home
+    sudo mkdir /sor/bimestre1 
+    sudo mkdir /sor/bimestre2
+    sudo mkdir /poo
+    sudo mkdir /poo/bimestre1
+    sudo mkdir /poo/bimestre2
+
+2º Questão:
+
+    cd /sor/bimestre1
+    sudo gedit conteudo1bim - editor de texto
+
+3º Questão:
+
+    cd /sor/bimestre2
+    sudo gedit hello.c
+
+4º Questão:
+
+    cd /sor/bimestre2
+    sudo gcc hello.c –o executavel
+
+5º Questão:
+
+    cd /sor/bimestre2
+    ./executavel
+
+6º Questão:
+
+    cd /home
+    sudo cp /sor/bimestre1/conteudo1bim /poo/bimestre1
+    sudo cp /sor/bimestre2/hello.c /poo/bimestre2
+
+7º Questão:
+
+    cd /home
+    ls -R sor/ - Lista diretórios e subdiretórios recursivamente
+    ls -R /sor /poo - Lista diretórios e subdiretórios recursivamente
+
+8º Questão:
+
+    ls /sor /poo > /home/aluno/minhaestrutura.txt - Uso do conectivo ">" para incluir e um arquivo.
+
+9º Questão:
+
+    sudo grep -r printf sor/ - Exibe o local e onde foi encontrado o padrão definido pelo usuário.
+
+10º Questão:
+
+    
+    
+    

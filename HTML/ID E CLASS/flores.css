@@ -1,0 +1,9 @@
+#titulos {
+    color: blue;
+    font-style: italic;
+}
+
+.texto {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}

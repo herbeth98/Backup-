@@ -1,0 +1,1 @@
+quantidade = float(input("Insira a quantidade em kWh"))

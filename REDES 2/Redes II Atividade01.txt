@@ -1,0 +1,69 @@
+
+1º Questão: pwd - Verificar local
+
+2º Questão: cd - Alternar entre diretórios /  mkdir - Criar diretório
+
+    cd aluno
+    mkdir ifpr
+    mkdir trabalhos
+    cd ifpr
+    mkdir
+
+3ºQuestão:
+
+    cd .. - Para voltar até a pasta ifpr
+
+4º Questão:
+
+nano numeros.txt - Inserir conteúdo e salvar
+
+5º Questão:
+
+    cp numeros.txt numeros1.txt - Para duplicar o arquivo numeros.txt
+    cp numeros.txt numeros2.txt
+
+6º Questão:
+
+    cp *.txt /home/aluno/trabalho - Para copiar os arquivos com a extensão .txt para a pasta definida
+
+7º Questão:
+
+    ls -lh - Para Exibir informações dos arquivos contido no diretórios
+
+8º Questão: 
+
+    sudo chmod u=rwx,g=rx,o=rx  numeros.txt
+
+9º Questão:
+
+    sudo chmod u=rw,g=r,o=r  numeros.txt - PAra alterar permissões de arquivos
+
+10º Questão:
+
+    cd .. - Para voltar a pasta aluno
+    cd ifpr
+    cp -r * /home/aluno/ifprbackup - Para copiar todos arquivos e o "-r" para copiar também diretórios
+
+11º Questão:
+
+    rm *.txt - Para remover todos os arquivos com a extensão ".txt"
+
+12º Questão:
+
+    rm -r textos - Para remover o diretório com o nome definido.
+
+13º Questão:
+
+    cd /home/aluno/ifpr - Alternar entre diretórios.
+
+14º Questão:
+
+    mv numeros.txt sequencia.txt - Renomear um arquivo dentro do diretório.
+
+15º Questão:
+
+    ls -lh /bin > listabin.txt - ls para listar os arquivos e o ">" para salvá-lo dentro de um arquivo.
+
+16º Questão:
+
+    rm -r nome_pasta - Para remover diretório

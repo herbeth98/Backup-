@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-size: 100%;
+    background-color: #cccccc;
+}
+
+#tudo{
+    background-color: white;
+    margin: 0 auto;
+    width: 1000px;
+    height: 750px;
+    
+}
+
+a{
+    float: right;
+    text-decoration: none;
+    font-size: 11pt;
+    color: #3894db;
+}
+
+.element{
+    border: none;
+    background-color: #ccc;
+    height: 40px;
+    width: 100%;
+    margin: 7px 0; 
+}
+.espaco{
+    padding-left: 20px;
+
+}
+
+#emailsenha{
+    width: 500px;
+    float: right;
+    padding: 250px 40px;
+}
+
+#entrar{
+    width: 100%;
+    background-color: #3894db;
+    border: none;
+    color: white;
+}
+h1{
+    position: relative;
+    left: 160px;
+    margin-bottom: 5px;
+}

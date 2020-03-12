@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+}
+#caixaazul{
+    background-color: blue;
+
+}
+.item_exemplo{
+    display: inline;
+}
+.item_one{ display: block;
+
+}
+
+.item_two{
+
+}

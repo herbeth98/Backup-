@@ -1,0 +1,19 @@
+1º Passo: Instalação
+
+2º Passo: Configuração - nome / Email
+
+3º Passo: git init - Inicializar um Git em um arquivo
+
+4º Passo: git add . - adciona os arquivos
+
+5º Passo: git commit -m "comentário" - Cria uma Versão
+
+6º Passo: git reset --hard "id do commit"
+
+git log - mostra o ID da versão
+
+git push - Envia arquivos para o GitHub
+
+git pull - Faz download de arquivos do GitHub
+
+git clone - Faz o clone de arquivos
